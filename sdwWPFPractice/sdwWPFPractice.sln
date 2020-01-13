@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sdwWPFPractice", "sdwWPFPractice\sdwWPFPractice.csproj", "{9AE0CDB3-57A3-40C1-A529-D4704DEBF147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomForms", "CustomForms\CustomForms.csproj", "{9FC502CB-5FD5-4BD9-8A62-4BACC70C4FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE0CDB3-57A3-40C1-A529-D4704DEBF147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE0CDB3-57A3-40C1-A529-D4704DEBF147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE0CDB3-57A3-40C1-A529-D4704DEBF147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE0CDB3-57A3-40C1-A529-D4704DEBF147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC502CB-5FD5-4BD9-8A62-4BACC70C4FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC502CB-5FD5-4BD9-8A62-4BACC70C4FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC502CB-5FD5-4BD9-8A62-4BACC70C4FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC502CB-5FD5-4BD9-8A62-4BACC70C4FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2CA2DE2-AA30-4FD0-A754-F0C97BC4ADD0}
+	EndGlobalSection
+EndGlobal
